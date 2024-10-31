@@ -1,0 +1,19 @@
+.backTo {
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+    padding: 10px 15px;
+    font-size: 18px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+      
+}
+.backTo:hover {
+    opacity: 1;
+  }
+  

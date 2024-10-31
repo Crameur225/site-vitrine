@@ -1,0 +1,30 @@
+.items{
+  width: 90%;
+  margin: auto;
+}
+.imageA{
+  width: 250px;
+  height: 250px;
+  border-radius: 500px;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+}
+.item{
+ padding-top: 100px;
+ padding-bottom: 100px;
+}
+@media screen and (max-width: 700px){
+  .imageA{
+    width: 180px;
+    height: 180px;
+    border-radius: 200px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+  }
+  .item{
+    padding: 20px 0px;
+    text-align: center;
+   }
+   .items{
+    width: 100%;
+    margin: auto;
+  }
+}

@@ -1,0 +1,28 @@
+.container {
+    color: white;
+    background-color: #2b6f54;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+.fixed{
+    color: white;
+    background-color: #2b6f54da;
+    text-transform: uppercase;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 4;
+    height: auto;
+}
+.tainer{
+    font-weight: bold;
+    padding: 1.5%;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+}
+.cont{
+    color: red !important;
+}
+

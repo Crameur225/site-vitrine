@@ -1,0 +1,10 @@
+/*container */
+.container{
+    background-color: #0c5d3c;
+    color: white;
+    height: 200%;
+    width: 100%;
+    overflow-x: hidden;
+    margin: auto;
+    font-size: 1.5em;
+}
